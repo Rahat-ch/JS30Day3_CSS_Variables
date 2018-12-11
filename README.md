@@ -6,3 +6,4 @@ I'll be applying what I learned here to my portfolio and hope to have something 
 
 As always you can check out the deployed code below:
 
+https://rahat-ch.github.io/JS30Day3_CSS_Variables/
